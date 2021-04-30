@@ -87,7 +87,7 @@ author:
   name             : "Sugitha Devarajan"
   avatar           : "/images/82b01635-e68e-4eba-b3da-8cc93332deda.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
-  location         : "Your Location"
+  location         : "Houston,TX"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Your Github"
+  github           : "Sugi Github"
   gitlab           :
   google_plus      :
   keybase          :
