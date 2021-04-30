@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Sugitha Devarajan"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/82b01635-e68e-4eba-b3da-8cc93332deda.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Your Location"
   email            :
