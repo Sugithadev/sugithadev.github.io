@@ -1,15 +1,16 @@
 ts# main links
-main:
+main: 
   - title: "About"
     url: /about/
   - title: "Projects"
     url: /data-wrangling/
-  - title: "Sample Collections"
-    url: /collection-archive/
+    
+    
+  # - title: "Sample Collections"
+  # url: /collection-archive/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
-  #   url: /year-archive/
- 
+  #   url: /year-archive
   # - title: "Sitemap"
   #   url: /sitemap/
